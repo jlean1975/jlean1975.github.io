@@ -1,2 +1,2 @@
-# jlean1975.github.io
+# notpeerreviewed.github.io
 Blog repo
